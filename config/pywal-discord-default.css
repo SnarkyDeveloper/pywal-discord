@@ -147,7 +147,7 @@
 	--text-danger: var(--r);
 	--text-brand: var(--color2);
 	--text-primary: var(--foreground);
-	--text-secondary: var(--color6);
+	--text-secondary: var(--color3);
 	--text-tertiary: var(--color5) !important;
 	--text-feedback-positive: var(--color2);
 	--text-feedback-critical: var(--r);
@@ -204,7 +204,7 @@
 	--background-mod-faint: var(--color6);
 	--background-mod-normal: var(--color8);
 	--background-mod-strong: var(--background);
-	--background-mod-subtle: var(--color0);
+	--background-mod-subtle: var(--color8);
 	--custom-channel-members-bg: var(--background);
 	--custom-status-bubble-background: var(--color0) !important;
 	--custom-status-bubble-background-color: var(--background) !important;
@@ -278,8 +278,8 @@
 	--button-positive-background-hover: var(--color2);
 	--button-positive-background-active: var(--color2);
 	--button-positive-background-disabled: var(--color2);
-	--button-secondary-background: var(--color9) !important;
-	--button-secondary-background-hover: var(--color6);
+	/* --button-secondary-background: var(--color8) !important; */
+	--button-secondary-background-hover: var(--color8);
 	--button-secondary-background-active: var(--color6);
 	--button-secondary-background-disabled: var(--color6);
 	--button-secondary-text: var(--foreground) !important;
@@ -343,8 +343,8 @@
 	--scrollbar-auto-scrollbar-color-thumb: var(--color2);
 	--scrollbar-auto-scrollbar-color-track: var(--color0);
 	--input-background: var(--color0);
-	--input-border: var(--color6);
-	--input-placeholder-text: var(--color6);
+	--input-border: var(--color3);
+	--input-placeholder-text: var(--color3);
 	--logo-primary: var(--foreground);
 	--control-brand-foreground: var(--color2);
 	--control-brand-foreground-new: var(--color2);
