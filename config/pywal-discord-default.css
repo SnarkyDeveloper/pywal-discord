@@ -136,13 +136,11 @@
 	--brand-860: var(--background);
 	--brand-900: var(--background);
 	--header-primary: var(--foreground) !important;
-	--header-secondary: var(--color6) !important;
+	--header-secondary: var(--foreground) !important;
 	--__header-bar-background: var(--background) !important;
 	--text-normal: var(--foreground) !important;
 	--text-default: var(--foreground);
-	--text-muted: var(--color6) !important;
-	--text-link: var(--color22) !important;
-	--text-link-low-saturation: var(--color22);
+	--text-muted: var(--foreground) !important;;
 	--text-low-contrast: var(--color6);
 	--text-positive: var(--color2);
 	--text-warning: var(--color4);
