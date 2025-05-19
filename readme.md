@@ -16,7 +16,7 @@ Pywal-discord is a tool that makes and applies theme to discord with colors gene
 
 ##### Arch Linux
 
-`pywal-discord` is available in the Arch Linux repos as `pywal-discord-git`.
+`pywal-discord` is available in the Arch Linux repos as `pywal-discord-git`. // will add later :D
 
 ##### Manual/Git install
 
@@ -25,7 +25,7 @@ cd pywal-discord
 ./install
 ```
 
-[![gif](https://raw.githubusercontent.com/FilipLitwora/pywal-discord/master/images/out.gif)](https://www.youtube.com/watch?v=HZ7CXAt3N2Y)
+[![gif](https://raw.githubusercontent.com/SnarkyDeveloper/pywal-discord/master/images/out.png)]
 
 #### Configuration
 
@@ -34,10 +34,6 @@ Add your themes to `$HOME/.config/pywal-discord/` (`$HOME/.config/pywal-discord-
 You can copy `/usr/share/pywal-discord/pywal-discord-default.css` to use as a template.
 
 To use the themes simply call `pywal-discord -t <theme_name>`.
-
-### Theme made by <a href="https://github.com/abou123" target="_blank">abou123</a>
-
-to use this theme
 
 ```
 ./pywal-discord -t abou
