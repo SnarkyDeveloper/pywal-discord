@@ -1,5 +1,5 @@
 #!/bin/bash
-path="$HOME/.config/BetterDiscord/themes"
+path="$HOME/.config/vesktop/themes/"
 theme="default"
 config="/usr/share/pywal-discord"
 usrconfig="$HOME/.config/pywal-discord"
