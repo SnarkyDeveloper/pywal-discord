@@ -249,12 +249,12 @@
 	--primary-800: var(--color0);
 	--white: var(--foreground);
 	--white-400: var(--foreground);
-	--white-500: var(--foreground);
+	--white-500: var(--color14);
 	--white-600: var(--color6);
 	--white-700: var(--color6);
-	--guild-boosting-pink: var(--color3);
-	--guild-boosting-blue: var(--color2);
-	--guild-boosting-purple: var(--color4);
+	--guild-boosting-pink: var(--color8);
+	--guild-boosting-blue: var(--color0);
+	--guild-boosting-purple: var(--color0);
 	--premium-perk-yellow: var(--color4);
 	--premium-perk-purple: var(--color4);
 	--premium-perk-dark-blue: var(--color2);
