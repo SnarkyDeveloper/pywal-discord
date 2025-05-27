@@ -281,7 +281,7 @@
 	/* --button-secondary-background: var(--color8) !important; */
 	--button-secondary-background-hover: var(--color8);
 	--button-secondary-background-active: var(--color6);
-	--button-secondary-background-disabled: var(--color6);
+	--button-secondary-background-disabled: var(--color8);
 	--button-secondary-text: var(--foreground) !important;
 	--button-outline-danger-text: var(--foreground);
 	--button-outline-danger-border: var(--color3);
