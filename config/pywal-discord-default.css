@@ -195,7 +195,7 @@
 	--checkbox-border-default: var(--color6);
 	--border-faint: var(--color0);
 	--border-strong: var(--background);
-	--border-normal: var(--color0);
+	--border-normal: var(--color4);
 	--border-subtle: var(--background) !important;
 	--background-modifier-hover: rgba(79, 84, 92, 0.16);
 	--background-modifier-selected: rgba(79, 84, 92, 0.32);
