@@ -146,7 +146,7 @@
 	--text-warning: var(--color4);
 	--text-danger: var(--r);
 	--text-brand: var(--color2);
-	--text-primary: var(--foreground);
+	--text-primary: var(--color15);
 	--text-secondary: var(--color3);
 	--text-tertiary: var(--color5) !important;
 	--text-feedback-positive: var(--color2);
@@ -406,6 +406,10 @@
 	--notice-text-info: var(--background);
 	--notice-text-positive: var(--background);
 	--notice-text-warning: var(--background);
+}
+
+.unreadImportant__2ea32 {
+    background-color: var(--color6) !important;
 }
 
 .visual-refresh.theme-dark ::selection,
