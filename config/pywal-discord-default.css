@@ -388,8 +388,8 @@
 	--interactive-hover: var(--foreground);
 	--interactive-active: var(--foreground);
 	--search-popout-option-non-text-color: var(--color6);
-	--__spoiler-background-color--hidden: var(--color6);
-	--__spoiler-warning-background-color: var(--color6);
+	--__spoiler-background-color--hidden: var(--color8);
+	--__spoiler-warning-background-color: var(--color0);
 	--user-profile-overlay-background: var(--background);
 	--user-profile-overlay-background-hover: var(--color0);
 	--plum-23: var(--background);
