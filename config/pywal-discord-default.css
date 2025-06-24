@@ -201,7 +201,7 @@
 	--background-modifier-selected: rgba(79, 84, 92, 0.32);
 	--background-modifier-accent: hsla(0, 0%, 100%, 0.06);
 	--background-modifier-active: rgba(79, 84, 92, 0.24);
-	--background-mod-faint: var(--color6);
+	--background-mod-faint: var(--color8);
 	--background-mod-normal: var(--color8);
 	--background-mod-strong: var(--background);
 	--background-mod-subtle: var(--color8);
