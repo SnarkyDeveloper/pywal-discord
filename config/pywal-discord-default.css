@@ -319,7 +319,7 @@
 	--button-outline-primary-background-active: var(--color6);
 	--button-outline-primary-text-active: var(--foreground);
 	--button-outline-primary-border-active: var(--color6);
-	--button-filled-brand-text: var(--background);
+	--button-filled-brand-text: var(--color5);
 	--button-filled-brand-background: var(--color2);
 	--button-filled-brand-background-hover: var(--color2);
 	--button-filled-brand-background-active: var(--color2);
