@@ -406,6 +406,8 @@
 	--notice-text-info: var(--background);
 	--notice-text-positive: var(--background);
 	--notice-text-warning: var(--background);
+	--guild-boosting-pink: #ff73fa;
+
 }
 
 .unreadImportant__2ea32 {
