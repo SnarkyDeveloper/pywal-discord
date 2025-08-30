@@ -203,7 +203,7 @@
 	--background-modifier-active: rgba(79, 84, 92, 0.24);
 	--background-mod-faint: var(--color8);
 	--background-mod-normal: var(--color8);
-	--background-mod-strong: var(--background);
+/* 	--background-mod-strong: var(--background); Breaks gif selector on selected gifs */
 	--background-mod-subtle: var(--color8);
 	--custom-channel-members-bg: var(--background);
 	--custom-status-bubble-background: var(--color0) !important;
