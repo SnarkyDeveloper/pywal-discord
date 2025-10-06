@@ -407,11 +407,15 @@
 	--notice-text-positive: var(--background);
 	--notice-text-warning: var(--background);
 	--guild-boosting-pink: #ff73fa;
-
+	--chat-background-default: var(--color0);
 }
 
 .unreadImportant__2ea32 {
     background-color: var(--color6) !important;
+}
+
+.sansAttachButton__74017 {
+	opacity: 0.8;
 }
 
 .visual-refresh.theme-dark ::selection,
