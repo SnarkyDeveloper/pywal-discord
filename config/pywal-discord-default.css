@@ -688,7 +688,7 @@
 
 .visual-refresh.theme-dark div[class^=control_]>div[class^=container_],
 .visual-refresh .theme-dark div[class^=control_]>div[class^=container_] {
-	background-color: #585b70 !important;
+	/* background-color: #585b70 !important; */
 	transition: background-color .2s
 }
 
